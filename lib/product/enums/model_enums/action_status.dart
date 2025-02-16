@@ -1,0 +1,5 @@
+enum ActionStatus{
+  GIVE_WARNING_SOUND,
+  RUN_GINDER,
+  NO_ACTION
+}
